@@ -1,0 +1,15 @@
+{
+  "name": "historia",
+  "version": "0.0.1",
+  "description": "bot historia",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^11.5.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alexis_Nox",
+  "license": "ISC"
+}
